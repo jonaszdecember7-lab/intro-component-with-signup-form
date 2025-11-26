@@ -4,6 +4,8 @@
 
 ## Welcome! 👋
 
+You can view my completed project here: https://jonaszdecember7-lab.github.io/intro-component-with-signup-form/
+
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
